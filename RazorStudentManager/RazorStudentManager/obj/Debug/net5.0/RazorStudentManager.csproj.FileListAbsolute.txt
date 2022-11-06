@@ -1,0 +1,1317 @@
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\appsettings.Development.json
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\appsettings.json
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.exe
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.deps.json
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.runtimeconfig.json
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.runtimeconfig.dev.json
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ref\RazorStudentManager.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.pdb
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\mscorlib.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\netstandard.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.AppContext.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Buffers.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Collections.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ComponentModel.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Configuration.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Console.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Core.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Data.Common.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Data.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Drawing.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Globalization.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.Compression.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Linq.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Memory.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Http.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Mail.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Ping.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Requests.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Security.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Numerics.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ObjectModel.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Claims.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Principal.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Text.Json.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Transactions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ValueTuple.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Web.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Windows.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\WindowsBase.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.Views.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.Views.pdb
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Humanizer.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Newtonsoft.Json.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Runtime.Caching.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.csprojAssemblyReference.cache
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.GeneratedMSBuildEditorConfig.editorconfig
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.AssemblyInfoInputs.cache
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.AssemblyInfo.cs
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.csproj.CoreCompileInputs.cache
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.MvcApplicationPartsAssemblyInfo.cs
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.MvcApplicationPartsAssemblyInfo.cache
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.RazorAssemblyInfo.cache
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.RazorAssemblyInfo.cs
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\staticwebassets\RazorStudentManager.StaticWebAssets.Manifest.cache
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\staticwebassets\RazorStudentManager.StaticWebAssets.xml
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\scopedcss\bundle\RazorStudentManager.styles.css
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.TagHelpers.input.cache
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.TagHelpers.output.cache
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.RazorCoreGenerate.cache
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\StudentPage\Create.cshtml.g.cs
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\StudentPage\Edit.cshtml.g.cs
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\StudentPage\Index.cshtml.g.cs
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.RazorTargetAssemblyInfo.cache
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.RazorTargetAssemblyInfo.cs
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.Views.pdb
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.csproj.CopyComplete
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\ref\RazorStudentManager.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.pdb
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.genruntimeconfig.cache
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Composition.Convention.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Composition.Hosting.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Composition.Runtime.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Composition.TypedParts.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\ClassPage\Create.cshtml.g.cs
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\ClassPage\Delete.cshtml.g.cs
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\ClassPage\Details.cshtml.g.cs
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\ClassPage\Edit.cshtml.g.cs
+J:\.Net-5-零基础项目实战\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\ClassPage\Index.cshtml.g.cs
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\appsettings.Development.json
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\appsettings.json
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.StaticWebAssets.xml
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.exe
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.deps.json
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.runtimeconfig.json
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.runtimeconfig.dev.json
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.pdb
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\mscorlib.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\netstandard.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Collections.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Console.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Core.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Data.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Linq.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Memory.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Web.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Windows.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.Views.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.Views.pdb
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Humanizer.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.csproj.AssemblyReference.cache
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.AssemblyInfoInputs.cache
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.AssemblyInfo.cs
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.csproj.CoreCompileInputs.cache
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.MvcApplicationPartsAssemblyInfo.cs
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.MvcApplicationPartsAssemblyInfo.cache
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.RazorAssemblyInfo.cache
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.RazorAssemblyInfo.cs
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\scopedcss\bundle\RazorStudentManager.styles.css
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\staticwebassets\RazorStudentManager.StaticWebAssets.Manifest.cache
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.TagHelpers.input.cache
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.TagHelpers.output.cache
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.RazorCoreGenerate.cache
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\ClassPage\Create.cshtml.g.cs
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\ClassPage\Delete.cshtml.g.cs
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\ClassPage\Details.cshtml.g.cs
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\ClassPage\Edit.cshtml.g.cs
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\ClassPage\Index.cshtml.g.cs
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\StudentPage\Create.cshtml.g.cs
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\StudentPage\Edit.cshtml.g.cs
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\StudentPage\Index.cshtml.g.cs
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.RazorTargetAssemblyInfo.cache
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.RazorTargetAssemblyInfo.cs
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.Views.pdb
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.csproj.CopyComplete
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\refint\RazorStudentManager.dll
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.pdb
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.genruntimeconfig.cache
+D:\新建文件夹 (2)\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\ref\RazorStudentManager.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\appsettings.Development.json
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\appsettings.json
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.StaticWebAssets.xml
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.exe
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.deps.json
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.runtimeconfig.json
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.runtimeconfig.dev.json
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.pdb
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\mscorlib.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\netstandard.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Collections.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Console.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Core.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Data.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Linq.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Memory.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Web.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Windows.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.Views.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\RazorStudentManager.Views.pdb
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Humanizer.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.csproj.AssemblyReference.cache
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.AssemblyInfoInputs.cache
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.AssemblyInfo.cs
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.csproj.CoreCompileInputs.cache
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.MvcApplicationPartsAssemblyInfo.cs
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.MvcApplicationPartsAssemblyInfo.cache
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.RazorAssemblyInfo.cache
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.RazorAssemblyInfo.cs
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\scopedcss\bundle\RazorStudentManager.styles.css
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\staticwebassets\RazorStudentManager.StaticWebAssets.Manifest.cache
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.TagHelpers.input.cache
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.TagHelpers.output.cache
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.RazorCoreGenerate.cache
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\ClassPage\Create.cshtml.g.cs
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\ClassPage\Delete.cshtml.g.cs
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\ClassPage\Details.cshtml.g.cs
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\ClassPage\Edit.cshtml.g.cs
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\ClassPage\Index.cshtml.g.cs
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\StudentPage\Create.cshtml.g.cs
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\StudentPage\Edit.cshtml.g.cs
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\StudentPage\Index.cshtml.g.cs
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.RazorTargetAssemblyInfo.cache
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.RazorTargetAssemblyInfo.cs
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.Views.pdb
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.csproj.CopyComplete
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\refint\RazorStudentManager.dll
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.pdb
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\RazorStudentManager.genruntimeconfig.cache
+D:\c#code\学生管理系统\RazorStudentManager\RazorStudentManager\obj\Debug\net5.0\ref\RazorStudentManager.dll
